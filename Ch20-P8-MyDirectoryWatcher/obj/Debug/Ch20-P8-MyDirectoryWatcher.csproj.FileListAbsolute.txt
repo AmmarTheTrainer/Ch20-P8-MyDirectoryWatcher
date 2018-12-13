@@ -1,0 +1,7 @@
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P8-MyDirectoryWatcher\Ch20-P8-MyDirectoryWatcher\bin\Debug\Ch20-P8-MyDirectoryWatcher.exe.config
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P8-MyDirectoryWatcher\Ch20-P8-MyDirectoryWatcher\bin\Debug\Ch20-P8-MyDirectoryWatcher.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P8-MyDirectoryWatcher\Ch20-P8-MyDirectoryWatcher\bin\Debug\Ch20-P8-MyDirectoryWatcher.pdb
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P8-MyDirectoryWatcher\Ch20-P8-MyDirectoryWatcher\obj\Debug\Ch20-P8-MyDirectoryWatcher.csprojAssemblyReference.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P8-MyDirectoryWatcher\Ch20-P8-MyDirectoryWatcher\obj\Debug\Ch20-P8-MyDirectoryWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P8-MyDirectoryWatcher\Ch20-P8-MyDirectoryWatcher\obj\Debug\Ch20-P8-MyDirectoryWatcher.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P8-MyDirectoryWatcher\Ch20-P8-MyDirectoryWatcher\obj\Debug\Ch20-P8-MyDirectoryWatcher.pdb
